@@ -14,7 +14,7 @@
 2）<b>[FastLink](https://v02.fl-aff.com/auth/register?code=je8N)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anycast全球加速技术，节点速度高达2Gbps，秒开4k、支持8K，IPLC，中转应有尽有，高峰期稳定，体验宛如身在海外，提供香/日/韩/台/新/美/俄/加/德/英/法/土/荷/印/阿根廷/澳大利亚/巴西等多国节点 全V2ray节点，高速稳定不怕墙，流媒体解锁，服务态度友好，提供美区APPleId，可以单独定制套餐VIP，现在注册即可白嫖三天体验套餐，白嫖优惠码：599_f3cz8bzm。</p>
 
-👉 **双十一优惠，八折优惠码：FASTLINK11 ，所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上双十一活动8折之后再八折相当于6.4折，力度相当诱人。**
+👉 **双十一优惠，八折优惠码：FASTLINK11 ，所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上双十一活动8折之后再八折相当于6.4折，力度相当诱人。截止日期：2023年11月22号 23:59**
 
 👉 http://bit.ly/3yukEPs
 
@@ -93,7 +93,7 @@
 1）<b>[FScloud](https://web.fscloud.cc/#/register?code=mAMmbdAY)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁，节点包括：港，日，新加坡，美国，英国，德国，印度，加拿大，新用户注册可免费试用 3 天100g流量</p>
 
-👉 **由于这家老板不走寻常路，节点突然更新，使用了最新的协议hysteria，因此推荐使用官网自制的，或者NekoRay，shaodowrocket以及clashMata等支持该协议的客户端，不然导入了也无法使用**
+👉 **由于FSCloud使用了最新的协议hysteria2，推荐使用官网自制的，或者NekoRay，shaodowrocket以及clashMata等支持该协议的客户端，否则导入了也无法使用**
 
 👉 https://bit.ly/3tU21Fz
 
