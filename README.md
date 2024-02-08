@@ -107,12 +107,12 @@
 
 所谓初级的含义：便宜是第一位的，平时的时候也能用，速度，流媒体解锁也能保证一部分，但是遇到重大敏感的日期，或者不明原因，也可能用不了，适合平时偶尔用用，需求不大的用户。
 
-1）<b>[FScloud](https://web.fscloud.cc/#/register?code=mAMmbdAY)</b>
+1）<b>[FScloud](https://123.fscloud.cc/#/register?code=mAMmbdAY)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传说中的一元机场，一元即可享受100G流量套餐， Netflix等主流流媒体解锁，节点包括：港，日，新加坡，美国，英国，德国，印度，加拿大，新用户注册可免费试用 3 天100g流量。</p>
 
 👉 **使用最新的协议hysteria2，reality，更好的连接体验，更快的速度冲浪。**
 
-👉 https://bit.ly/3tU21Fz
+👉 https://bit.ly/3Sg6GeC
 
 2）<b>[魔戒](https://mojie.buzz/#/register?code=rJp1uYUW)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不限速，没有到期时间，不限制人数的，纯流量计费大机场，节点包括日本，台湾，香港，新加坡，韩国，朝鲜，以色列，美国，澳大利亚，柬埔寨，卢森堡，印度，德国，墨西哥，葡萄牙，芬兰，荷兰，英国，加拿大，乌克兰，哈萨克斯坦，土耳其，瑞士，阿根廷，南非，尼日利亚，俄罗斯等。流媒体解锁，价格最低可至 1 元。</p>
