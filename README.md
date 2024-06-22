@@ -111,7 +111,7 @@
 
 分享一些我用过，且觉得好用的东西，不能保证100%可用，因为不是我亲自运营，仅作参考，有需要可以了解一下，没需要可以忽略：
 
-<b>[TG群组搜索机器人](https://github.com/wantToDoSomeThing/SSSSRV2RayClash)</b>
+<b>[TG群组搜索机器人](https://t.me/soso)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想搜一些有意思的电报群，又没有地方找，可以使用此机器人。</p>
 
 👉 https://t.me/soso
