@@ -19,6 +19,10 @@
 3）<b>[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稳如闪电，快如肥猫，高端全专线 IPLC，无倍率套路，原生节点大机场，节点包括，港，台，美，日，新加坡，英国，马来西亚，阿根廷，土耳其。Netflix ,Disney+, hulu等当地流媒体全解锁，注册即可免费白嫖3天，白嫖优惠码：free 。</p>
 
+👉 **七夕节浪漫优惠码：QIXIJIE 享受全场打7折，截止日期：8月18号**
+
+👉 **所有现在的套餐都已经自动折扣了，比如年付套餐，已经8折，加上七夕活动7折之后再八折相当于5.6折，力度相当诱人。**
+
 👉 https://bit.ly/3JCIZJn
 
 4）<b>[NiceDuck](https://u.niceduck.cc/#/register?code=2o3T6rG1)</b>
