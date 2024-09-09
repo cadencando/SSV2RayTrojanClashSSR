@@ -19,12 +19,12 @@
 3）<b>[SpeedCat](https://github01.youbbv.com/auth/register?code=7TiK)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稳如闪电，快如肥猫，高端全专线 IPLC，无倍率套路，原生节点大机场，节点包括，港，台，美，日，新加坡，英国，马来西亚，阿根廷，土耳其。Netflix ,Disney+, hulu等当地流媒体全解锁，注册即可免费白嫖3天，白嫖优惠码：free 。</p>
 
-👉 **中秋9折优惠码：duck-9 ,限月付、季付、半年付使用。8折优惠码：duck-8，限年付使用，有效期：2024/9/9—2024/9/29**
-
 👉 https://bit.ly/3JCIZJn
 
 4）<b>[NiceDuck](https://u.niceduck.cc/#/register?code=2o3T6rG1)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多入口隧道中转SS线路，国内多入口，高SLA保证高端大机场，低价格，高品质，速度拉满，有 "流量包" 套餐。节点包括：港，台，日，美，韩，新加坡等。全节点流媒体支持，包括ChatGPT/Netfilx/Disney+/Dazn/动画疯/Abema/DMM等，套餐可低至每月 6 块 6 毛 6。</p>
+
+👉 **中秋9折优惠码：duck-9 ,限月付、季付、半年付使用。8折优惠码：duck-8，限年付使用，有效期：2024/9/9—2024/9/29**
 
 👉 https://bit.ly/3ujlpMM
 
