@@ -27,7 +27,7 @@
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp现在主流的机场都是使用的 SS 类型，v2ray以及trojan类型。一键连接最简单，用户也很多，老手一般不用。SSR较少。</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp按照线路分，可分为直连，中转，BGP，IPLC，IEPL等</p>
 
-![image](https://github.com/wantToDoSomeThing/SSV2RayTrojanSSRClash/blob/master/content/image/xianlu.jpg)
+![image](https://github.com/cadencando/SSV2RayTrojanClashSSR/blob/master/content/image/xianlu.jpg)
 
 <h2>四、连上机场我可以干什么？</h2>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp如果你想找资料，可以查谷歌，duckduckgo</p>
